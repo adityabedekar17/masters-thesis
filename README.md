@@ -39,7 +39,7 @@ Figures highlight ΔVth trends across 30 devices, temperature dependency in Sky1
 If you use this work, please cite the thesis:
 
 ```bibtex
-@mastersthesis{bedekar2025bti,
+@mastersthesis{Bedekar2025,
   title={Survey on Bias Temperature Instability: Characterization, Modeling, and Security Implications in Advanced Process Nodes},
   author={Bedekar, Aditya Ashish},
   school={University of California, Santa Cruz},
